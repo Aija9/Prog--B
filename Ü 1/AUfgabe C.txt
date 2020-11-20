@@ -1,0 +1,29 @@
+Aufgabe C : 
+1)
+
+i = 10
+j = 10 , i = 11;
+c= 9 , j = 9
+i=10 ; c = 10
+
+2)
+type : enum
+Jahreszeit hat 4 mögliche Variablen, die bestimmte Monaten etsprichen.
+
+3)
+(q || w ) = true 
+! (q || w ) = false
+! (q || w ) && t = false 
+!w = true 
+!q = false 
+!w ^ !q = true 
+!( q || w ) && t || !w ^ !q = false 
+
+4)
+2 ^ 5 = 010 ^ 101 = 111 = 7 
+
+5)
+a) result = 9.999999999985448
+b) result = 9.9921875
+c) result = 10 
+die Präzision von beiden Datentypen ist unterschiedlich .
