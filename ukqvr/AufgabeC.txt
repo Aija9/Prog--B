@@ -1,0 +1,26 @@
+1.
+int i = 10;
+int j = i++; // j=10, i=11
+int c = --j; //c=9, j=9
+i = ++c; // c=10, i=10
+
+also i=10
+
+2.
+int weil ein Monat durch eine natuerliche Zahl angegeben wird.
+
+3.
+ (!( q || w ) && t) || ((! w) ^ (!q))
+( q || w ) = true
+!( q || w ) = false
+(!( q || w ) && t) = false
+(! w) ^ (!q) = true
+(!( q || w ) && t) || ((! w) ^ (!q)) = true (1)
+4.
+Entweder 2 oder 5.
+
+5.
+a) 9.999999999985448
+b) 9.9921875
+c) 10
+Rundungsfehler: Gleitkommazahlen nur Teilmenge der reellen Zahlen, Zahlen nicht gleichmäßig dicht dargestellt
