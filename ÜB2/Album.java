@@ -3,9 +3,9 @@ enum Genre {
 }
 
 public class Album {
-	String titel;
-	Kuenstler interpreter;
-	Datum datum;
+	String title;
+	Artist interpreter;
+	Date datum;
 	Label label;
 	int numberOfSongs;
 	Genre genre;
