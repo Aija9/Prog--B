@@ -1,7 +1,7 @@
 
 public class Label {
 	String name;
-	Anschrift address;
-	Datum establishmentDate;
+	Address address;
+	Date establishmentDate;
 
 }
