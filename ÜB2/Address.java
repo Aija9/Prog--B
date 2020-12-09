@@ -1,5 +1,5 @@
 
-public class Anschrift {
+public class Address {
 	String streetName;
 	String city;
 	int postcode;
