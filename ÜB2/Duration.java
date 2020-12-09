@@ -1,5 +1,5 @@
 
-public class Dauer {
+public class Duration {
 	int seconds;
 	int minutes;
 
